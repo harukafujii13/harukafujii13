@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hfujii1013@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/hfujii13](linkedin.com/in/hfujii13)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hfujii13/](https://www.linkedin.com/in/hfujii13/)
 
 - ⚡ Fun fact **I played basketball for 9 years 🏀**
 
