@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hfujii13/](https://www.linkedin.com/in/hfujii13/)
 
-- ⚡ Fun fact **I played basketball for 9 years 🏀**
+- ⚡ Fun fact **I played basketball for 10 years 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
