@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haruka Fujii</h1>
 <h3 align="center">A passionate frontend developer from Japan 🇯🇵</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harukafujii13" alt="harukafujii13" /></a> </p>
-
 - 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **hfujii1013@gmail.com**
 
@@ -28,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harukafujii13&show_icons=true&locale=en" alt="harukafujii13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harukafujii13&" alt="harukafujii13" /></p>
-
