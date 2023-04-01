@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **hfujii1013@gmail.com**
+- 📫 How to reach me **harukafujii.dev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hfujii13/](https://www.linkedin.com/in/hfujii13/)
 
