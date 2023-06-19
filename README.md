@@ -1,12 +1,11 @@
-<h1 style="text-align: center;">Hi 👋, I'm Haruka Fujii</h1>
+<h1 style="text-align: center;">Hi, I'm Haruka Fujii🙋🏻‍♀️</h1>
 <h3 style="text-align: center;">A passionate frontend developer in Vancouver</h3>
 
 <ul>
-  <li>💁🏻‍♀️ All of my projects are available on <a href="#">my portfolio</a></li>
+  <li>💻 All of my projects are available on <a href="#">my portfolio</a></li>
   <li>📄 Know about my experiences on <a href="https://www.linkedin.com/in/hfujii13" target="blank">LinkedIn</a></li>
   <li>📭 Contact <a href="mailto:harukafujii.dev@gmail.com"></a></li>
 </ul>
-</br>
 <h3>Languages and Tools:</h3>
 
 <a href="https://skillicons.dev">
