@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi, I'm Haruka Fujii🙋🏻‍♀️</h1>
+<h1 style="text-align: center;">Hi,👋 I'm Haruka Fujii</h1>
 <h3 style="text-align: center;">A passionate frontend developer in Vancouver🇨🇦</h3>
 
 <ul>
