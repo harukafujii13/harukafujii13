@@ -18,5 +18,3 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=harukafujii13&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukafujii13&layout=compact&theme=omni" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harukafujii13&show_icons=true&locale=en" alt="harukafujii13" /></p>
