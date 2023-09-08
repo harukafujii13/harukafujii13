@@ -9,7 +9,7 @@
 <h3>Languages and Tools:</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mysql,mongo,firebase,sass,tailwind,bootstrap,materialui,git,figma" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mongo,postgres,firebase,mysql,sass,tailwind,bootstrap,materialui,git,figma" alt="Skill icons" />
 </a>
 
 <h3>My GitHub Statistics:</h3>
