@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi,👋 I'm Haruka Fujii</h1>
-<h3 style="text-align: center;">A passionate frontend developer based in Vancouver🇨🇦</h3>
+<h3 style="text-align: center;">A passionate Software Engineer based in Vancouver🇨🇦</h3>
 
 <ul>
   <li>💻 All of my projects are available on <a href="https://haruka-fujii.vercel.app/">my portfolio</a></li>
