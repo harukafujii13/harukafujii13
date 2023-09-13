@@ -18,14 +18,14 @@
 <strong><a href="https://cafe-hopping.vercel.app/">Cafe Hopping</a></strong> - <strong>Next.js, TypeScript, next-auth, Prisma, PostgreSQL, Google Maps API</strong>
 
 <ul>
-  <li>Repository: <a href="https://github.com/harukafujii13/CafeHopping_App.git">Cafe Hopping</a></li>
+  <li>Repository: <a href="https://github.com/harukafujii13/CafeHopping_App.git">☕️ Cafe Hopping</a></li>
   <li>Description: Full-stack application designed to help cafe enthusiasts discover and engage with cafes either nearby or in specified areas.</li>
-</ul>
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
+  <li style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
   <span>Test user:</span>
   <span>Email: <em>admin@gmail.com</em></span>
   <span>Password: <em>admin123</em></span>
-</div>
+</li>
+</ul>
 
 <h3>My GitHub Statistics:</h3>
 
