@@ -14,6 +14,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mongo,postgres,firebase,mysql,sass,tailwind,bootstrap,materialui,git,figma" alt="Skill icons" />
 </a>
 
+<h3>🖥️Projects</h3>
+**[Cafe Hopping](https://cafe-hopping.vercel.app/)** - **Next.js, TypeScript, next-auth, Prisma, PostgreSQL, Google Maps API**
+
+     Repository: [Cafe Hopping](https://github.com/harukafujii13/CafeHopping_App.git)
+     Full-stack application designed to help cafe enthusiasts discover and engage with cafes either nearby or in specified areas.
+     Test user email: *admin@gmail.com* password: *admin123*.
+
 <h3>My GitHub Statistics:</h3>
 
 <p align="left"> 
