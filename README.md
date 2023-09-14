@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,nodejs,express,mongo,postgres,firebase,mysql,sass,tailwind,bootstrap,materialui,git,figma" alt="Skill icons" />
 </a>
 
-<h3>Project</h3>
+<h3>My favorite project</h3>
 <strong><a href="https://cafe-hopping.vercel.app/">☕️ Cafe Hopping</a></strong> - <strong>Next.js, TypeScript, next-auth, Prisma, PostgreSQL, Google Maps API</strong>
 
 <ul>
