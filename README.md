@@ -22,8 +22,8 @@
   <li>Description: Full-stack application designed to help cafe enthusiasts discover and engage with cafes either nearby or in specified areas.</li>
   <li style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
   <span>Test user:</span>
-  <span>Email: <em>admin@gmail.com</em></span>
-  <span>Password: <em>admin123</em></span>
+  <span>Email: <em>test@test.com</em></span>
+  <span>Password: <em>test12345</em></span>
 </li>
 </ul>
 
