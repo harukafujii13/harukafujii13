@@ -5,7 +5,7 @@
 <h3>Tech</h3>
 <ul>
   <li><strong>Core:</strong> TypeScript · React · Next.js · Node.js</li>
-  <li><strong>CS / Learning:</strong> Java</li>
+  <li><strong>CS / Learning:</strong> Java · C++</li>
 </ul>
 
 <h3>Links</h3>
