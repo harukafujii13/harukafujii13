@@ -12,5 +12,4 @@
 <ul>
   <li>🌐 <a href="https://haruka-fujii.vercel.app/">Portfolio</a></li>
   <li>💼 <a href="https://www.linkedin.com/in/hfujii13">LinkedIn</a></li>
-  <li>✉️ <a href="mailto:harukafujii.dev@gmail.com">Email</a></li>
 </ul>
